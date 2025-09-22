@@ -22,15 +22,29 @@ It also demonstrates how to secure routes with **Express middleware**.
 
 ---
 ## 📂 Node.js_Express.js_Authentication_System/
-- **server.js** - Main application file
+- **server.js** - Main server file (contains /register, /login, /profile)
 - **package.json** - Project metadata & dependencies
 - **.gitignore** - Ignored files (node_modules, .env)
 - **README.md** - Project documentation
 
 ---
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setup (GitHub Clone)
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Node.js_Express.js_Authentication_System.git
    cd Node.js_Express.js_Authentication_System
+---
+
+## ▶️ Setup & Run (local)
+1. Clone or create a folder and copy files.
+2. Open terminal in project folder.
+3. Run:
+
+
+```bash
+npm install
+# optionally set secret and port
+export JWT_SECRET="your_secret_here"
+export PORT=3000
+npm start
