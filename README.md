@@ -55,10 +55,10 @@ curl -X POST http://localhost:3000/register \
 ## ⚙️ Installation & Setup (GitHub Clone)
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/YOUR_USERNAME/Node.js_Express.js_Authentication_System.git
-   cd Node.js_Express.js_Authentication_System
-   ```
+```
+git clone https://github.com/YOUR_USERNAME/Node.js_Express.js_Authentication_System.git
+cd Node.js_Express.js_Authentication_System
+```
 
 ## ▶️ Setup & Run (local)
 1. Clone or create a folder and copy files.
