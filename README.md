@@ -29,7 +29,7 @@ It also demonstrates how to secure routes with **Express middleware**.
 
 ---
 
-## Test the APIs (examples using curl)
+## 🔍 Test the APIs (examples using curl)
 
 ## Register
 ```
