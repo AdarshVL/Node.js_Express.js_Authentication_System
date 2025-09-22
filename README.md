@@ -21,11 +21,11 @@ It also demonstrates how to secure routes with **Express middleware**.
 - **Utilities:** body-parser, nodemon  
 
 ---
-## Node.js_Express.js_Authentication_System/
-- **server.js**  Main application file
-- **package.json** Project metadata & dependencies
-- **.gitignore** Ignored files (node_modules, .env)
-- **README.md** Project documentation
+## 📂 Node.js_Express.js_Authentication_System/
+- **server.js** - Main application file
+- **package.json** - Project metadata & dependencies
+- **.gitignore** - Ignored files (node_modules, .env)
+- **README.md** - Project documentation
 
 ---
 ## ⚙️ Installation & Setup
